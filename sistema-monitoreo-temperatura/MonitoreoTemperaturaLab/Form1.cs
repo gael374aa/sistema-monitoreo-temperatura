@@ -21,15 +21,13 @@ namespace MonitoreoTemp.Views
         {
             InitializeComponent();
 
-            // CONEXIÓN DEL MOTOR:
-            // Le decimos al controlador: "Cuando cambies la temp, avísale a mi método AlRecibirNuevaTemperatura"
             _controller.TempChanged += AlRecibirNuevaTemperatura;
 
-            // Arrancamos los hilos
+            
             _controller.IniciarSimulacion();
         }
 
-        // EL PUENTE SEGURO (Para evitar que truene por los hilos)
+        
         private void AlRecibirNuevaTemperatura(SensorData data)
         {
             if (this.InvokeRequired)
@@ -38,7 +36,7 @@ namespace MonitoreoTemp.Views
                 return;
             }
 
-            // --- AQUÍ ES DONDE ELLOS ESCRIBIRÁN SU CÓDIGO ---
+            // --- AQUÍ ES DONDE ESCRIBIRÁN SU CÓDIGO ---
         }
     }
 }
