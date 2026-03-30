@@ -21,29 +21,7 @@ namespace MonitoreoTemp.Views
         {
             InitializeComponent();
 
-            // 2. Nos suscribimos al evento: "Avisame cuando cambie la temp"
-            _controller.TempChanged += AlRecibirNuevaTemperatura;
-
-            // 3. Arrancamos el motor
-            _controller.IniciarSimulacion();
-        }
-
-        // 4. ESTA ES LA FUNCIÓN DEL PASO 4 (El puente seguro)
-        private void AlRecibirNuevaTemperatura(SensorData data)
-        {
-            // ¿Estoy en el hilo equivocado?
-            if (this.InvokeRequired)
-            {
-                // Si sí, me mando llamar a mí mismo pero en el hilo correcto
-                this.Invoke(new Action(() => AlRecibirNuevaTemperatura(data)));
-                return;
-            }
-
-            // --- AQUÍ TRABAJAN TUS COMPAÑEROS ---
-            // Todo lo que escriban aquí abajo es SEGURO y no romperá el programa
-
-           
-
+       
             
         }
     }
