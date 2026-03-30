@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gm918\\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\\TOPICOS AVANZADOS DE PROGRAMACION\\SistemaCalificacionesMVC\\SimuladorSemaforo\\SimuladorSemaforo.csproj",
+      "projectUniqueName": "C:\\Users\\gm918\\source\\repos\\sistema-monitoreo-temperatura\\sistema-monitoreo-temperatura\\SimuladorSemaforo\\SimuladorSemaforo.csproj",
       "projectName": "SimuladorSemaforo",
-      "projectPath": "C:\\Users\\gm918\\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\\TOPICOS AVANZADOS DE PROGRAMACION\\SistemaCalificacionesMVC\\SimuladorSemaforo\\SimuladorSemaforo.csproj",
+      "projectPath": "C:\\Users\\gm918\\source\\repos\\sistema-monitoreo-temperatura\\sistema-monitoreo-temperatura\\SimuladorSemaforo\\SimuladorSemaforo.csproj",
       "packagesPath": "C:\\Users\\gm918\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gm918\\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\\TOPICOS AVANZADOS DE PROGRAMACION\\SistemaCalificacionesMVC\\SimuladorSemaforo\\obj\\",
+      "outputPath": "C:\\Users\\gm918\\source\\repos\\sistema-monitoreo-temperatura\\sistema-monitoreo-temperatura\\SimuladorSemaforo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

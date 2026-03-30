@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladorSemaforo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb681b2e3a91cd0b5d49afb8968ac55f48431c58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a46c04e7b736573bf3016e65dea9336ad264971e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladorSemaforo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladorSemaforo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
