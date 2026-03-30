@@ -1,0 +1,17 @@
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\bin\Debug\net10.0-windows\SimuladorSemaforo.exe
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\bin\Debug\net10.0-windows\SimuladorSemaforo.deps.json
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\bin\Debug\net10.0-windows\SimuladorSemaforo.runtimeconfig.json
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\bin\Debug\net10.0-windows\SimuladorSemaforo.dll
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\bin\Debug\net10.0-windows\SimuladorSemaforo.pdb
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.Form1.resources
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.csproj.GenerateResource.cache
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.AssemblyInfoInputs.cache
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.AssemblyInfo.cs
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.dll
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\refint\SimuladorSemaforo.dll
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.pdb
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.genruntimeconfig.cache
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\ref\SimuladorSemaforo.dll
+C:\Users\gm918\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE MISANTLA\TOPICOS AVANZADOS DE PROGRAMACION\SistemaCalificacionesMVC\SimuladorSemaforo\obj\Debug\net10.0-windows\SimuladorSemaforo.Properties.Resources.resources
